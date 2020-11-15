@@ -11,4 +11,8 @@ npm install axios
 ----------------------------------------------------------------
 Don't forget to configure the package.json file after use the previous npm commands.
 
+![photo](https://user-images.githubusercontent.com/69440104/99160077-0a740100-26db-11eb-9c5d-d983131fc285.PNG)
+
+
+
 
